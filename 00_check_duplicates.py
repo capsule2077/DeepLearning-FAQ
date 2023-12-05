@@ -10,11 +10,14 @@ from project import LocalDataset
 print("this is main-master")
 print("this is main-hotfix234")
 print("this is main-hotfix2")
+print("this is main-hotfix")
+print("this is main-hotfix222")
 
 class ColorManager(object):
 
     def __init__(self):
         self.caches = {}
+        print("ssssssssssssssssssssssssssssssssssssssssss")
 
     def __call__(self, c_id):
         try:
