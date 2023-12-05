@@ -7,7 +7,7 @@ import numpy as np
 
 from project import LocalDataset
 
-print("this is master")
+print("this is main-master")
 class ColorManager(object):
 
     def __init__(self):
