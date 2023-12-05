@@ -7,7 +7,11 @@ import numpy as np
 
 from project import LocalDataset
 
+<<<<<<< HEAD
 print("this is main-master")
+=======
+print("this is main-hotfix")
+>>>>>>> hotfix
 class ColorManager(object):
 
     def __init__(self):
